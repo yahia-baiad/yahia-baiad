@@ -1,4 +1,4 @@
-# Hi, I'm Yahia ! 👋
+# Hi, I'm Yahia ! 
 
 Student at HEC Montréal  
 Double Specialization: Information Technology & Finance
@@ -8,13 +8,13 @@ I have a strong interest in mathematics, financial modeling, and financial marke
 ---
 
 
-## 💻 About Me
+## About Me
 I am passionate about software development, financial markets, and data analysis.  
 I enjoy building tools that combine technology and finance.
 
 ---
 
-## 🧠 Skills
+## Skills
 
 ### Programming
 - Python
@@ -37,7 +37,7 @@ I enjoy building tools that combine technology and finance.
 
 ---
 
-## 📋 Projects
+## Projects
 
 ### C-Bank (C project)
 Bank system simulation:
@@ -54,7 +54,7 @@ Bank system simulation:
 I am building a workspace agent that integrates automation, data processing, and task management to streamline software development and financial analysis workflows.
 ---
 
-## 💡 Currently Learning
+## Currently Learning
 - Data Structures & Algorithms
 - Financial Modeling
 - Machine Learning for Finance
@@ -62,6 +62,6 @@ I am building a workspace agent that integrates automation, data processing, and
 
 ---
 
-## 📫 Contact me
+## Contact me
 - LinkedIn: https://www.linkedin.com/in/baiad-yahia-144925297/
 - Email: yahiabaida@gmal.com
